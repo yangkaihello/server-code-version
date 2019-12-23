@@ -1,0 +1,19 @@
+{
+    "name": "yangkai/server-code-version",
+    "description": "project block test",
+    "keywords": ["yangkai", "server", "code", "version"],
+    "type": "composer-plugin",
+    "minimum-stability":"dev",
+    "authors": [
+        {
+            "name": "yangkaihello",
+            "email": "444655291@qq.com"
+        }
+    ],
+    "require": {
+        "php":"^7.0.12"
+    },
+    "autoload": {
+        "psr-4": {"yangkai\\code\\version\\": ""}
+    }
+}
