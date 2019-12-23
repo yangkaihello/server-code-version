@@ -3,12 +3,6 @@
     "description": "project block test",
     "keywords": ["yangkai", "server", "code", "version"],
     "minimum-stability":"dev",
-    "authors": [
-        {
-            "name": "yangkaihello",
-            "email": "444655291@qq.com"
-        }
-    ],
     "require": {
         "php":"^7.0.12"
     },
