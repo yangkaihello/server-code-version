@@ -2,7 +2,6 @@
     "name": "yangkai/server-code-version",
     "description": "project block test",
     "keywords": ["yangkai", "server", "code", "version"],
-    "type": "composer-plugin",
     "minimum-stability":"dev",
     "authors": [
         {
