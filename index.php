@@ -18,7 +18,7 @@ class index
     public function init()
     {
 
-
+        var_dump($_SERVER);
 
     }
 

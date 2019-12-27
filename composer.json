@@ -4,7 +4,9 @@
     "keywords": ["yangkai", "server", "code", "version"],
     "minimum-stability":"dev",
     "require": {
-        "php":"^7.0.12"
+        "php":"^7.0.12",
+        "yangkai/request":"*",
+        "yangkai/response":"*"
     },
     "autoload": {
         "psr-4": {"yangkai\\code\\version\\": ""}
